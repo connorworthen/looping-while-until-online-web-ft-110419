@@ -3,4 +3,5 @@ def using_until
   until levitation_force = 10
     puts "The force equals a max of ten"
     counter +=1
+  end
 end
