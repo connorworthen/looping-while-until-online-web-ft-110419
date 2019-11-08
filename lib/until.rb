@@ -4,4 +4,3 @@ def using_until
     puts "The force equals a max of ten"
     counter +=1
   end
-end
